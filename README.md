@@ -19,7 +19,7 @@ exemplo-fastapi/
 │ │ └─ item.py # modelos Pydantic
 │ └─ routers/
 │ ├─ init.py
-│ └─ itens.py
+│ └─ itens.py # rotas relacionadas a itens
 ```
 
 
